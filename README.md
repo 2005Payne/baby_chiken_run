@@ -1,3 +1,6 @@
-# baby_chiken_run
-<h1</h1
-https://drive.google.com/drive/folders/1yrp6rh358o2Fif5vuTFjlznGlgM0cU7r?usp=sharing
+# 유니티로 만든 게임 
+<h1>윈도우 버전</h1>
+<a href="https://drive.google.com/drive/folders/1yrp6rh358o2Fif5vuTFjlznGlgM0cU7r?usp=sharing">바로가기</a>
+<h1>안드로이드 버전</h1>
+<a href="https://drive.google.com/drive/folders/1V98JJKeoCSpb4io0Y7MEnR4VRWUDmHgy?usp=sharing">바로가기</a>
+<img src="./gameimg.png">
